@@ -9,9 +9,7 @@ app.get('/', (req, res) => {
                 <h1>Bulut Bilişim Ödevi</h1>
                 <p><strong>Ad Soyad:</strong> Fatih Daşar</p>
                 <p><strong>Öğrenci No:</strong> [231002047]</p>
-                "scripts": {
-                    "start": "node index.js"
-                },
+                
             </body>
         </html>
     `);
